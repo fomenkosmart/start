@@ -1,0 +1,33 @@
+<DDOCTYPE html>
+<html>
+
+<head> 
+
+<title>Dating site</title>
+<meta name="athor" content="Victoria Fomenko">
+<style>
+body {background-color:yelow}
+</style>
+<link rel="Dating site" href="stylerules.css"
+<meta name="keywords" content="Dating site, datings, love, meet">
+<meta charset="UTF-8">
+
+<script src="mycode.js"><script>
+<script>
+function surprize(){
+	alert("Hello!")
+}
+</script>
+<base href="http:www.facebook.com/ target="_blank">
+
+Dating Site
+</head>
+
+<body>
+
+<h1>My first page.</h1>
+<p>The page is awasome!</p>
+
+</body>
+
+</html>
